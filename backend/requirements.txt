@@ -1,6 +1,6 @@
-sentence-transformers
-faiss-cpu
-pandas
-torch
-transformers
-numpy
+flask
+flask-cors
+pymongo
+requests
+beautifulsoup4
+python-dotenv
